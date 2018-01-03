@@ -1,0 +1,3 @@
+image: rabbitmq:3.7
+namespace: rabbitmq
+replicas: 5
